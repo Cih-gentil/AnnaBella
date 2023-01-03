@@ -1,0 +1,35 @@
+body {
+    background: #ffc7f4 url(fundo.png);
+}
+
+#principal {
+    width: 59%;
+    font: 16px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#993366;
+}
+
+.lista {
+    text-decoration: none;
+    color:#4b566a;
+    font-weight: bold;
+    padding: 5px;
+
+}
+.corh2{
+    color:#4b566a;
+}
+.texto{
+    background: #e8e8d9;
+    padding: 10px;
+}
+.corTexto{
+    color:black;
+}
+    .centralizar{
+        color:black;
+        text-align: center;
+    }
+    .img{
+        border: #4b566a solid 4px;
+    }
+  
